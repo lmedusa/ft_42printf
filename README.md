@@ -1,2 +1,3 @@
-# ft_42printf
-кунсткамера костылей
+# printf
+
+My implementation of printf function in pure C.
